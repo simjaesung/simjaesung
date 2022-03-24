@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=n&text=Sim%20jae%20sung&desc=simsorry&descAlign=84&descAlignY=50&fontAlign=75&fontAlignY=30&height=170&fontSize=50&animation=fadeIn&fontColor=f7f5f5)
+![header](https://capsule-render.vercel.app/api?type=slice&color=n&text=Sim%20jae%20sung&desc=simsorry&descAlign=84&descAlignY=50&fontAlign=75&fontAlignY=30&height=100&fontSize=50&animation=fadeIn&fontColor=f7f5f5)
 
 ## Effort to💪
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
