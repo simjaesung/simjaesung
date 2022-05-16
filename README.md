@@ -12,4 +12,4 @@
 <h3 align = "center">Contact📞</h3>
 <p align="center">
 <a href ="mailto:tlawotjd4285@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href = "https://www.instagram.com/sim_sorry/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href = "https://www.instagram.com/simsorrry/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
