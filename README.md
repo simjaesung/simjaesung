@@ -15,4 +15,4 @@
 <a href = "https://www.instagram.com/simsorrry/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={tlawotjd123})](https://solved.ac/{tlawotjd123})
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=tlawotjd123)](https://solved.ac/tlawotjd123)
