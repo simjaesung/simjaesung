@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=n&text=Sim%20jae%20sung&desc=simsorry&descAlign=84&descAlignY=50&fontAlign=75&fontAlignY=30&height=150&fontSize=50&animation=fadeIn&fontColor=f7f5f5)
 
-성장할 수 있는 기반을 탄탄하게 다지는 중입니다.
+급속도로 성장할 수 있도록 기반을 탄탄하게 다지는 중입니다.
 
 <h3><b>Effort to💪</b></h3>
 
