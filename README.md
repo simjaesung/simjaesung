@@ -5,7 +5,6 @@
 - 네이버 부스트캠프 웹.모바일 9기 베이직.챌린지 수료 (2024.06 ~ 2024.08)
 - 네이버 부스트캠프 웹.모바일 9기 멤버십 (2024.08 ~ )
 
-<br/>
 
 ## Algorithm
  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tlawotjd123)](https://solved.ac/tlawotjd123)
